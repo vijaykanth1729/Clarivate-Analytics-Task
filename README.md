@@ -12,6 +12,7 @@ STEP-4: login to the admin dashboard.. http://127.0.0.1:8000/admin/    ,
   Username: admin
   
   Password: admin123
+  
 Dont use these common passwords in real applications to avoid Brute force attacks..
 
 Step-5: finally we can test this by :   python manage.py test
