@@ -3,6 +3,8 @@ This is built on Django-Rest-Framework which can perform search, sort &amp; CRUD
 
 STEP-1: Clone this repository
 
+First run---> pip install -r requirements.txt
+
 STEP-2: python manage.py runserver (Be in root directory)
 
 STEP-3: visit this url: http://127.0.0.1:8000/api/
